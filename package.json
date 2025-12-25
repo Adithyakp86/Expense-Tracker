@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "A fully functional, responsive Expense Tracker web application built with HTML, CSS, and JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "npx serve"
+  },
+  "keywords": [
+    "expense",
+    "tracker",
+    "javascript",
+    "html",
+    "css",
+    "finance",
+    "budget"
+  ],
+  "author": "Expense Tracker",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
